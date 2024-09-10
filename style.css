@@ -1,0 +1,17 @@
+body {
+    background-color: #1061b1;
+}
+
+h2 {
+    color: greenyellow;
+    text-align: center;
+}
+
+.card {
+    margin-top: 20px;
+}
+.quote {
+    font-size: 1.5rem;
+    margin: 20px 0;
+    color: rgb(92, 33, 82); /* Change this to your desired color */
+}
